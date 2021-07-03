@@ -1,2 +1,2 @@
 # gps_contract
-gps代币合约
+gps token contract
